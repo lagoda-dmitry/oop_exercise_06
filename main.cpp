@@ -1,7 +1,7 @@
 #include <iostream>
-#include "Vector.hpp" 
+#include "vector.hpp" 
 #include <map>
-#include "Figures.hpp"
+#include "figures.hpp"
 #include <algorithm>
 
 enum { 
